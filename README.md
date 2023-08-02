@@ -4,33 +4,32 @@
 
 ## 실시간으로 그림을 그리고 맞추는 게임 서비스
 
----
+
 
 본 서비스는 여러 사용자들이 초대코드를 통해 게임 방에 모여 실시간으로 그림을 그리고 정답을 맞추는 게임 서비스입니다.
 
 ## Demo
 
----
+
 
 ## System Architecture
 
----
+
 
 <p align="center">
   <img src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/da2434bf-8ae4-471a-902c-d6ab44389011">
 </p>
-![system architecture]([https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/da2434bf-8ae4-471a-902c-d6ab44389011])
 
 ## **Features**
 
----
+
 
 - Main Feature: 여러 사용자들이 초대코드를 통해 게임 방에 모여 실시간으로 그림을 그리고 채팅을 통해 정답을 맞추는 게임을 진행
 - Additional Feature: 사용자들이 게임에서 그린 그림들을 그렸던 모든 그림들 모아보기
 
 ## Pages
 
----
+
 
 Main Page
 
@@ -46,13 +45,13 @@ Drawing Result Page
 
 ## Backend API
 
----
+
 
 (캡처본 넣기)
 
 ## Tech Stack
 
----
+
 
 | Frontend  | Backend | DevOps | Etc |
 | --- | --- | --- | --- |
@@ -80,21 +79,19 @@ Drawing Result Page
 
 ## ERD
 
----
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de9824ba-0ebc-4b35-b34d-a74ef522ba8f/Untitled.png)
+<p align="center">
+  <img src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/5b2dfd3e-d158-483e-8eb4-313d23d115cc">
+</p>
 
 ## How to Start
 
----
 
 ### 1. Clone Repository
 
-<aside>
-💡 $ git clone https://github.com/2023-Summer-Bootcamp-TeamD/frontend.git
+```markdown
+$ git clone https://github.com/2023-Summer-Bootcamp-TeamD/frontend.git
 $ git clone [https://github.com/2023-Summer-Bootcamp-TeamD/backend.git](https://github.com/2023-Summer-Bootcamp-TeamD/frontend.git)
-
-</aside>
+```
 
 ### 2. Install Packages
 
@@ -127,7 +124,7 @@ $ npm run dev
 
 ## Directory Structure (프론트, 백엔드)
 
----
+
 
 ```markdown
 **frontend**
@@ -182,7 +179,7 @@ $ npm run dev
 
 ## **URL**
 
----
+
 
 - / → Main Page
 - /creatingSpecificRooms → Creating Room Page
@@ -193,7 +190,7 @@ $ npm run dev
 
 ## Team
 
----
+
 
 | Name | 최현정 | 구지혜 | 김예빈 | 김진수 | 서근재 | 윤정은 | 이승환 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
