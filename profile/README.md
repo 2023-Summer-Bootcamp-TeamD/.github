@@ -51,11 +51,8 @@ Drawing Result Page
 
 | Frontend  | Backend | DevOps | Etc |
 |---|---|---|---|
-| - Typescript  
-- React  
-- Styled Component  - React Query - websocket |- javascript - nodejs - MYSQL - Amazon S3 - SWAGGER - websocket | - NginX - AWS - Docker - Vercel - github actions | - POSTMAN - GIT - GRAFANA - PROMETHEUS - CAdvisor |
+| <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><br /><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"><br /><img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"><br /><img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"><br /><img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white">| - NginX - AWS - Docker - Vercel - github actions | - POSTMAN - GIT - GRAFANA - PROMETHEUS - CAdvisor |
 
-*Readme 뱃지 사용*
 
 ## ERD
 
