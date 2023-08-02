@@ -52,9 +52,9 @@ Drawing Result Page
 | Frontend  | Backend | DevOps | Etc |
 |---|---|---|---|
 | - Typescript  - React  - Styled Component  - React Query - websocket |
-- javascript - nodejs - MYSQL - Amazon S3 - SWAGGER - websocket | 
-- NginX - AWS - Docker - Vercel - github actions | 
-- POSTMAN - GIT - GRAFANA - PROMETHEUS - CAdvisor |
+|- javascript - nodejs - MYSQL - Amazon S3 - SWAGGER - websocket | 
+|- NginX - AWS - Docker - Vercel - github actions | 
+|- POSTMAN - GIT - GRAFANA - PROMETHEUS - CAdvisor |
 
 *Readme 뱃지 사용*
 
