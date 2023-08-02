@@ -260,6 +260,8 @@ $ npm run dev
 - /result → Game Result Page
 - /drawingRoom → Drawing Result Page
 
+##Socket
+
 ## Team
 
 
