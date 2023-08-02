@@ -1,4 +1,6 @@
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb9ecf7d-b24a-4639-b774-c345eb840d8d/Untitled.png)
+<p align="center">
+  <img src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/3cb798eb-c87d-46c5-acda-c3a14d656f4d">
+</p>
 
 ## 실시간으로 그림을 그리고 맞추는 게임 서비스
 
