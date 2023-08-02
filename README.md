@@ -102,7 +102,10 @@ Drawing Result Page
         <br />
         <img src="https://img.shields.io/badge/GRAFANA-F46800?style=flat&logo=GRAFANA&logoColor=white" />
         <br />
-        <img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=flat&logo=PROMETHEUS&logoColor=white" /></td>
+        <img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=flat&logo=PROMETHEUS&logoColor=white" />
+        <br />
+        <img src="https://img.shields.io/badge/C ADVISOR-6D6D6D?style=flat&logoColor=white" />
+      </td>
     </tr>
   </tbody>
 </table>
@@ -110,7 +113,6 @@ Drawing Result Page
 
 
 
-*Readme 뱃지 사용*
 
 ## ERD
 
