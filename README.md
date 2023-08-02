@@ -14,6 +14,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/da2434bf-8ae4-471a-902c-d6ab44389011">
+</p>
 ![system architecture]([https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/da2434bf-8ae4-471a-902c-d6ab44389011])
 
 ## **Features**
