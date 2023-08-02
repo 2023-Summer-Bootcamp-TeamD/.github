@@ -75,17 +75,6 @@
     </tr>
   </tbody>
 </table>
-Main Page
-
-Creating Room Page
-
-Entering Romm Page
-
-Game Page
-
-Game Result Page
-
-Drawing Result Page
 
 ## Backend API
 
