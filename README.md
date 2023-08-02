@@ -27,8 +27,54 @@
 
 ## Pages
 
-
-
+<table width='100%'>
+  <tbody>
+    <tr bgcolor='#D6D4D3'>
+      <th width='50%' align="center">Main</th>
+      <th width='50%' align="center">Creating Room</th>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">유저가 카테고리, 방 인원과 라운드 당 제한 시간을 선택하고, 자신의 닉네임을 입력 후에 방을 생성한다. </td>
+    </tr>
+  </tbody>
+</table>
+<table width='100%'>
+  <tbody>
+    <tr bgcolor='#D6D4D3'>
+      <th width='50%' align="center">Entry Room</th>
+      <th width='50%' align="center">Game</th>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">방을 생성한 유저의 입장 코드를 받고 입장 코드와 닉네임을 입력해서 특정 방으로 입장한다.</td>
+      <td align="center">한 사용자는 랜덤으로 제시된 단어를 그리고 나머지 사용자는 채팅으로 정답을 맞춥니다. 인원 수만큼 차례를 돌며 게임을 진행합니다. </td>
+    </tr>
+  </tbody>
+</table>
+<table width='100%'>
+  <tbody>
+    <tr bgcolor='#D6D4D3'>
+      <th width='50%' align="center">Game Result</th>
+      <th width='50%' align="center">Drawing Room</th>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">게임 종료 시, 게임의 결과를 보여줍니다.</td>
+      <td align="center">서비스를 이용했던 사용자들의 모든 그림을 모아봅니다. </td>
+    </tr>
+  </tbody>
+</table>
 Main Page
 
 Creating Room Page
