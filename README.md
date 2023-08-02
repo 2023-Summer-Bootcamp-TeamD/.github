@@ -125,7 +125,7 @@ Drawing Result Page
 
 ```markdown
 $ git clone https://github.com/2023-Summer-Bootcamp-TeamD/frontend.git
-$ git clone https://github.com/2023-Summer-Bootcamp-TeamD/backend.git](https://github.com/2023-Summer-Bootcamp-TeamD/frontend.git
+$ git clone https://github.com/2023-Summer-Bootcamp-TeamD/backend.git
 ```
 
 ### 2. Install Packages
