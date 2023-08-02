@@ -229,14 +229,6 @@ $ npm run dev
 
 | Name | 최현정 | 구지혜 | 김예빈 | 김진수 | 서근재 | 윤정은 | 이승환 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Profile |  |  |  |  |  |  |  |
-| Role | Team Leader,
-Backend,
-DevOps,
-Frontend | Frontend
- | Frontend | Backend,
-DevOps | Frontend | Backend,
-DevOps | Frontend,
-DevOps,
-Backend |
-| gitHub | https://github.com/ppinkypeach  | https://github.com/jihye9549  | https://github.com/Kimyebin00  | https://github.com/nsa06035  | https://github.com/tjrmswo | https://github.com/jungeunyooon  | https://github.com/Leeseunghwan7305  |
+| Profile |  ---  | ---  | --- | --- | --- | --- | --- |
+| Role | Team Leader, Backend, DevOps, Frontend | Frontend | Frontend | Backend,DevOps | Frontend | Backend,DevOps | Frontend, DevOps,Backend |
+| gitHub | https://github.com/ppinkypeach | https://github.com/jihye9549  | https://github.com/Kimyebin00  | https://github.com/nsa06035  | https://github.com/tjrmswo | https://github.com/jungeunyooon| https://github.com/Leeseunghwan7305  |
