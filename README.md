@@ -14,7 +14,7 @@
 
 ---
 
-![system architecture]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/003db690-25c7-4945-b6fa-07071aaaf4e3/Untitled.png](https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/da2434bf-8ae4-471a-902c-d6ab44389011))
+![system architecture]([https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/da2434bf-8ae4-471a-902c-d6ab44389011])
 
 ## **Features**
 
