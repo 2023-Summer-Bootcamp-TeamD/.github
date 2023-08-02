@@ -59,15 +59,15 @@ Drawing Result Page
     </tr>
     <tr>
       <td align="center"> 
-        <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=white">
         <br />
-        <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
+        <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=white">
         <br />
-        <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flatlogo=styledcomponents&logoColor=white">
+        <img src="https://img.shields.io/badge/SOCKET.IO-010101?style=flat&logo=SOCKET.IO&logoColor=white" />
         <br />
-        <img src="https://img.shields.io/badge/reactquery-FF4154?flat&logo=reactquery&logoColor=white">
+        <img src="https://img.shields.io/badge/REACT QUERY-FF4154?flat&logo=reactquery&logoColor=white">
         <br />
-        <img src="https://img.shields.io/badge/socket.io-010101?style=flat&logo=socketdotio&logoColor=white"></td>
+        <img src="https://img.shields.io/badge/STYLED COMPONENTS-DB7093?style=flat&logo=styledcomponents&logoColor=white">
       <td align="center">
         <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=JAVASCRIPT&logoColor=white" />
         <br />
