@@ -84,7 +84,6 @@
 ![swagger](https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/93309061/584bb552-4891-4311-a680-14043909196a)
 
 
-(캡처본 넣기)
 
 ## Tech Stack
 
