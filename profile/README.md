@@ -91,7 +91,9 @@
 
 ## Monitoring
 <p align="center">
-  <img src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/1148f37e-0041-43e7-803c-c9a9fa72504c">
+  <img src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/09a9d9d5-ebc2-4e3e-b597-740195476c27">
+    <img src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/88e0cc5e-68f2-4e34-995f-123cbeb64ce8">
+
 </p>
 
 
