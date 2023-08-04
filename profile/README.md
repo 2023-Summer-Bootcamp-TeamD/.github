@@ -7,7 +7,9 @@
 본 서비스는 여러 사용자들이 초대코드를 통해 게임 방에 모여 실시간으로 그림을 그리고 채팅을 통해 정답을 맞추는 게임 서비스입니다.
 
 ## Demo
-
+<div width='100px'>
+  <img src='https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/8b96de03-dda7-4851-9386-0b945dffb62b'/>
+</div>
 
 
 ## System Architecture
@@ -34,7 +36,9 @@
       <th width='50%' align="center">Creating Room</th>
     </tr>
     <tr>
-      <td align="center"></td>
+      <td align="center"><div>
+  <img src='https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/8b96de03-dda7-4851-9386-0b945dffb62b'/>
+</div></td>
       <td align="center"></td>
     </tr>
     <tr>
