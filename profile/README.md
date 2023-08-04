@@ -34,7 +34,7 @@
 
 ## System Architecture
 <p align="center">
-  <img src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/da2434bf-8ae4-471a-902c-d6ab44389011">
+  <img src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/901eaf29-457e-4da2-98b6-593cde589396">
 </p>
 
 
