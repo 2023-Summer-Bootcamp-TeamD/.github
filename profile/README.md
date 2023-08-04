@@ -155,7 +155,7 @@
 ## ERD
 
 <p align="center">
-  <img src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/5b2dfd3e-d158-483e-8eb4-313d23d115cc">
+  <img src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/1148f37e-0041-43e7-803c-c9a9fa72504c">
 </p>
 
 ## How to Start
