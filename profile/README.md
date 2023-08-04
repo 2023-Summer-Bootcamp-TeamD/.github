@@ -7,8 +7,9 @@
 본 서비스는 여러 사용자들이 초대코드를 통해 게임 방에 모여 실시간으로 그림을 그리고 채팅을 통해 정답을 맞추는 게임 서비스입니다.
 
 ## Demo
-<div width='100px'>
-  <img src='https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/8b96de03-dda7-4851-9386-0b945dffb62b'/>
+<div>
+  <img src='https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/e5819074-40c4-414d-80de-3585318d683b'/>
+  <span>사용자가 카테고리, 방 인원과 라운드 당 제한 시간을 선택하고, 자신의 닉네임을 입력 후에 방을 생성한다.</span>
 </div>
 
 
