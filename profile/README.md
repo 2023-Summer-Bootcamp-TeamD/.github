@@ -11,7 +11,16 @@
   <img src='https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/e5819074-40c4-414d-80de-3585318d683b'/>
   <span>사용자가 카테고리, 방 인원과 라운드 당 제한 시간을 선택하고, 자신의 닉네임을 입력 후에 방을 생성한다.</span>
 </div>
-
+<div>
+  <br/>
+  <img src='https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/df630008-3c74-467e-ba57-2c1226451d67'/>
+  <span>게임 방의 입장 코드와 닉네임을 입력하여 해당 게임 방으로 입장한다</span>
+</div>
+<div>
+  <br/>
+  <img src='https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/df630008-3c74-467e-ba57-2c1226451d67'/>
+  <span>한 사용자는 랜덤으로 제시된 단어를 그리고 나머지 사용자는 채팅으로 정답을 맞춥니다. 인원 수만큼 차례를 돌며 게임을 진행합니다./span>
+</div>
 
 ## System Architecture
 
