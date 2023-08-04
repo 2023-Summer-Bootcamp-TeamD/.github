@@ -83,6 +83,16 @@
 ## Backend API
 ![swagger](https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/93309061/584bb552-4891-4311-a680-14043909196a)
 
+## ERD
+
+<p align="center">
+  <img src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/1148f37e-0041-43e7-803c-c9a9fa72504c">
+</p>
+
+## Monitoring
+<p align="center">
+  <img src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/1148f37e-0041-43e7-803c-c9a9fa72504c">
+</p>
 
 
 ## Tech Stack
@@ -152,11 +162,7 @@
 
 
 
-## ERD
 
-<p align="center">
-  <img src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/1148f37e-0041-43e7-803c-c9a9fa72504c">
-</p>
 
 ## How to Start
 
