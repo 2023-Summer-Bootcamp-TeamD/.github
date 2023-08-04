@@ -81,9 +81,8 @@
 </table>
 
 ## Backend API
-<img src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/93309061/22dc80d7-7329-43a5-b712-f3857045173">
+![swagger](https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/93309061/584bb552-4891-4311-a680-14043909196a)
 
-Swagger
 
 (캡처본 넣기)
 
