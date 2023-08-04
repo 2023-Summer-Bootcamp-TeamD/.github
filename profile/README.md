@@ -215,60 +215,7 @@ $ cd ../frontend
 $ npm run dev
 ```
 
-## Directory Structure (프론트, 백엔드)
 
-
-
-```markdown
-**frontend**
-├.github
-│      ├ISSUE_TEMPLATE
-│      └workflows
-├.hursky
-├node_modules
-├public
-└src
-    ├apis
-    ├assets
-    ├atom
-    ├common
-    │    ├DrawingHeader
-    │    └Header
-    ├components
-    │    ├Entrance
-    │    ├Game
-    │    └SkeletonSpinner
-    ├constants
-    ├context
-    ├font
-    │    ├KyoboHandwriting2019
-    │    └UhBeemysen
-    ├hooks
-    ├mocks
-    ├pages
-    │    ├CreatingSpecificRooms
-    │    ├DrawingResult
-    │    ├EntryRoom
-    │    ├Game
-    │    ├GameResult
-    │    └Main
-    └types
-
-**backend**
-├.github
-│      ├ISSUE_TEMPLATE
-│      └workflows
-├config
-├migrations
-├models
-├monitoring
-├routes
-├seeders
-├sockets
-└swagger
-
-**nginx**
-```
 
 ## **URL**
 
