@@ -177,14 +177,14 @@ $ npm run dev
 ## Team
 <table>
   <tbody>
-    <tr>
-      <th align="center">최현정</th>
-      <th align="center">구지혜</th>
-      <th align="center">김예빈</th>
-      <th align="center">김진수</th>
-      <th align="center">서근재</th>
-      <th align="center">윤정은</th>
-      <th align="center">이승환</th>
+    <tr width='100%'>
+      <th align="center" width='14%'>최현정</th>
+      <th align="center" width='14%'>구지혜</th>
+      <th align="center" width='14%'>김예빈</th>
+      <th align="center" width='14%'>김진수</th>
+      <th align="center" width='14%'>서근재</th>
+      <th align="center" width='14%'>윤정은</th>
+      <th align="center" width='14%'>이승환</th>
     </tr>
     <tr>
       <td align="center"><img width="100" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/cfd48573-d179-46a8-8647-6cddcf9ce71b"></td>
