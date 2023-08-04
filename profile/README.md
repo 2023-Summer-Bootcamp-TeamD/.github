@@ -106,8 +106,6 @@
         <br />
         <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat&logo=DOCKER&logoColor=white" />
         <br />
-        <img src="https://img.shields.io/badge/VERCEL-000000?style=flat&logo=VERCEL&logoColor=white" />
-        <br />
         <img src="https://img.shields.io/badge/GITHUB ACTIONS-2088FF?style=flat&logo=GITHUB ACTIONS&logoColor=white" />
       </td>
       <td align="center">
