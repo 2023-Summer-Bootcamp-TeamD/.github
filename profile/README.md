@@ -87,10 +87,10 @@ Swagger
 <table>
   <tbody>
     <tr>
-      <td align="center">Frontend</td>
-      <td align="center">Backend</td>
-      <td align="center">DevOps</td>
-      <td align="center">Etc</td>
+      <th align="center">Frontend</th>
+      <th align="center">Backend</th>
+      <th align="center">DevOps</th>
+      <th align="center">Etc</th>
     </tr>
     <tr>
       <td align="center"> 
@@ -265,9 +265,50 @@ $ npm run dev
 ## Team
 
 
+<table>
+  <tbody>
+    <tr>
+      <th align="center">최현정</th>
+      <th align="center">구지혜</th>
+      <th align="center">김예빈</th>
+      <th align="center">김진수</th>
+      <th align="center">서근재</th>
+      <th align="center">윤정은</th>
+      <th align="center">이승환</th>
+    </tr>
+    <tr>
+      <td align="center"><img width="100" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/cfd48573-d179-46a8-8647-6cddcf9ce71b"></td>
+      <td align='center'><img width="100" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/afbcfd8d-1851-4cb5-be0f-7e01053e97d9">
+</td>
+      <td align='center'><img width="100" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/9a9bc664-2e25-4992-a1df-62371430bc4c">
+</td>
+      <td align='center'><img width="100" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/0d54e412-bf42-4f24-b348-eb4a3488f665">
+</td>
+      <td align='center'><img width="100" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/f72e8e28-b3ec-4ded-8546-7e0b00d1d1d1">
+</td>
+      <td align='center'><img width="100" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/c52ebaaa-6ffe-410f-9735-812bae628af3">
+</td>
+      <td align='center'><img width="100" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/db5d3104-b617-4fc8-b7ed-42b9c21fe698">
+</td>
+    </tr>
+    <tr>
+      <td>Team Leader <br />Backend <br />DevOps</td>
+      <td>Frontend</td>
+      <td>Frontend</td>
+      <td>Backend <br />DevOps</td>
+      <td>Frontend</td>
+      <td>Backend <br />DevOps</td>
+      <td>Frontend <br />DevOps</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ppinkypeach">@ppinkypeach</a></td>
+      <td><a href="https://github.com/jihye9549">@jihye9549</a></td>
+      <td><a href="https://github.com/Kimyebin00">@Kimyebin00</a></td>
+      <td><a href="https://github.com/nsa06035">@nsa06035</a></td>
+      <td><a href="https://github.com/tjrmswo">@tjrmswo</a></td>
+      <td><a href="https://github.com/jungeunyooon">@jungeunyooon</a></td>
+      <td><a href="https://github.com/Leeseunghwan7305">@Leeseunghwan7305</a></td>
+    </tr>
+  </tbody>
+</table>
 
-| Name | 최현정 | 구지혜 | 김예빈 | 김진수 | 서근재 | 윤정은 | 이승환 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Profile |  ---  | ---  | --- | --- | --- | --- | --- |
-| Role | Team Leader <br />Backend <br />DevOps <br />Frontend | Frontend | Frontend | Backend <br />DevOps | Frontend | Backend <br />DevOps | Frontend <br />DevOps <br />Backend |
-| gitHub | [Hyeonjeong](https://github.com/ppinkypeach) | [Jihye](https://github.com/jihye9549)  | [Yebin](https://github.com/Kimyebin00)  | [Jinsoo](https://github.com/nsa06035) | [Keunjae](https://github.com/tjrmswo) | [Jungeun](https://github.com/jungeunyooon) | [Seunghwan](https://github.com/Leeseunghwan7305) |
